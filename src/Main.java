@@ -5,7 +5,7 @@ public class Main {
         int x= input1.getheight();
         input1.setlength(10);
         int y=input1.getlength();
-        System.out.println("Area ="+x*y);
+        input1.area(x,y);
 
 
     }

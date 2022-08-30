@@ -14,6 +14,10 @@ public class CalcA {
         return length;
 
     }
+    public void area(int x,int y){
+        System.out.println("Area :"+x*y);
+
+    }
 
 
 }
